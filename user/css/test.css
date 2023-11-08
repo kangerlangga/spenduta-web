@@ -1,0 +1,74 @@
+.nav{
+    background-color: #05C05B;
+}
+.brand img{
+    height: 60px;
+}
+.navbar{
+    background-color:#05C05B ;
+}
+#judul{
+    display: inline-block;
+}
+#form{
+    display: inline;
+}
+#form .brand #search{
+    background-color: #05C05B;
+}
+.btn{
+    margin-left: 10px;
+    background-color: #05C05B;
+}
+input.form-control{
+    display: inline-block;
+    border-color: #05C05B;
+    width: 50%;
+}
+.search .btn{
+    color: #fff;
+    background-color: #05C05B;
+}
+.brand{
+    padding:0;
+    margin: 0;
+}
+.carousel-item{
+    justify-content: center;
+}
+.judul{
+    text-align: center;
+    display: inline-block;
+    background-color: #FFAC0A;
+}
+.main{
+    display: inline-block;
+}
+#search{
+    float: left;
+    margin-right: 20px;
+}
+
+.brand img{
+    display: inline;
+    margin: 0%;
+    transform: translate(-10%, -80%);
+}
+.carousel-caption {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    right: 0;
+    bottom: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center; /* Mengatur teks agar berada di tengah secara horizontal */
+    background-color: #05C05B;
+    padding: 5%;
+}
+.carousel-caption h5 p{
+    color:#fff;
+}
+
